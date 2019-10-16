@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hut</string>
+    <string-array name="numbers">
+        <item>kg</item>
+        <item>ton</item>
+        <item>liter</item>
+
+    </string-array>
+</resources>
